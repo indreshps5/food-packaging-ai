@@ -123,9 +123,9 @@ These are combined into an overall suitability score used to rank materials. She
 
 ## Team
 
-Ishita Verma (Leader)
-Jugal Mahour
-Indresh Pratap Singh
-Kunal Singh
-Adarsh Chaurasia
-Abhishek Verma
+- Ishita Verma (Leader)
+- Jugal Mahour
+- Indresh Pratap Singh
+- Kunal Singh
+- Adarsh Chaurasia
+- Abhishek Verma
