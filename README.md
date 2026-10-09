@@ -1,8 +1,13 @@
-# Food Packaging AI
+# Food Packaging AI Prototype
 
 An intelligent decision-support platform that recommends suitable packaging materials for food commodities based on food properties, storage conditions, barrier properties, cost and sustainability.
 
 Built as a prototype for Smart India Hackathon (SIH) 2026.
+
+🚀 Live Demo
+
+"👉 Click here to try the Food Packaging AI Prototype" https://food-packaging-ai-1ul5.vercel.app
+
 
 ## Problem
 
