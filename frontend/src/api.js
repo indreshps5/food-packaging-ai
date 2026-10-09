@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://food-packaging-ai-omega.vercel.app";
+const API_BASE_URL = "https://food-packaging-ai-omega.vercel.app/api/v1";
 
 const TOKEN_STORAGE_KEY = "foodPackagingAccessToken";
 
