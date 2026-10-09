@@ -25,6 +25,9 @@ origins = [
 if settings.frontend_url:
     origins.append(settings.frontend_url.rstrip("/"))
 
+origins.append("https://food-packaging-ai-1ul5.vercel.app")
+
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
